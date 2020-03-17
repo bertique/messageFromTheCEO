@@ -1,7 +1,7 @@
 ---
 title:  "Hilton’s Response to Novel Coronavirus (COVID-19)"
 metadate: "hide"
-categories: [  ]
+categories: [ covid, hilton, hotel ]
 image: "/assets/images/posts/HiltonsResponsetoNovelCoronavirusCOVID19_full.png"
 thumbnail: "/assets/images/posts/HiltonsResponsetoNovelCoronavirusCOVID19.png"
 ---
