@@ -205,7 +205,7 @@ Download Our App:
 
 
 
-You are subscribed as: B.MICHAEL.DICK@GMAIL.COM.
+You are subscribed as: info@messagefromtheceo.com.
 
 To unsubscribe from IHG Rewards Club Special Offers & Promotions, please click
 here
