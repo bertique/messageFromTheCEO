@@ -1,7 +1,7 @@
 ---
 title:  "Our response to the coronavirus outbreak"
 metadate: "hide"
-categories: [  ]
+categories: [ covid, united, airline ]
 image: "/assets/images/posts/Ourresponsetothecoronavirusoutbreak_full.png"
 thumbnail: "/assets/images/posts/Ourresponsetothecoronavirusoutbreak.png"
 ---
