@@ -1,7 +1,7 @@
 ---
 title:  "A travel update from Expedia leadership"
 metadate: "hide"
-categories: [  ]
+categories: [ covid, expedia, hotel, airline  ]
 image: "/assets/images/posts/AtravelupdatefromExpedialeadership_full.png"
 thumbnail: "/assets/images/posts/AtravelupdatefromExpedialeadership.png"
 ---
