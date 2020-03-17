@@ -1,7 +1,7 @@
 ---
 title:  "An important message from our CEO"
 metadate: "hide"
-categories: [  ]
+categories: [ covid, ihg, hotel ]
 image: "/assets/images/posts/AnimportantmessagefromourCEO_full.png"
 thumbnail: "/assets/images/posts/AnimportantmessagefromourCEO.png"
 ---
