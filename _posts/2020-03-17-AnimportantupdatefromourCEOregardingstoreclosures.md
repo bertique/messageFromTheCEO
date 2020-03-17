@@ -1,7 +1,7 @@
 ---
 title:  "An important update from our CEO regarding store closures"
 metadate: "hide"
-categories: [  ]
+categories: [ covid retail ]
 image: "/assets/images/posts/AnimportantupdatefromourCEOregardingstoreclosures_full.png"
 thumbnail: "/assets/images/posts/AnimportantupdatefromourCEOregardingstoreclosures.png"
 ---
