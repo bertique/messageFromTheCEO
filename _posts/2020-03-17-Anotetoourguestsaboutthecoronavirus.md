@@ -1,7 +1,7 @@
 ---
 title:  "A note to our guests about the coronavirus."
 metadate: "hide"
-categories: [  ]
+categories: [ covid, target, store ]
 image: "/assets/images/posts/Anotetoourguestsaboutthecoronavirus_full.png"
 thumbnail: "/assets/images/posts/Anotetoourguestsaboutthecoronavirus.png"
 ---
