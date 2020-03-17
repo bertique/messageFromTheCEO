@@ -1,7 +1,7 @@
 ---
 title:  "Our Commitment Remains: Your Update from Ed Bastian"
 metadate: "hide"
-categories: [  ]
+categories: [ covid delta airline]
 image: "/assets/images/posts/OurCommitmentRemainsYourUpdatefromEdBastian_full.png"
 thumbnail: "/assets/images/posts/OurCommitmentRemainsYourUpdatefromEdBastian.png"
 ---
