@@ -1,7 +1,7 @@
 ---
 title:  "Safety Above All During COVID-19"
 metadate: "hide"
-categories: [  ]
+categories: [ covid fedex ]
 image: "/assets/images/posts/SafetyAboveAllDuringCOVID19_full.png"
 thumbnail: "/assets/images/posts/SafetyAboveAllDuringCOVID19.png"
 ---
