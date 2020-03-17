@@ -1,12 +1,11 @@
 ---
 title:  "A Message to Our Customers about COVID-19"
 metadate: "hide"
-categories: [  ]
+categories: [ covid, bedbathbeyond, retail ]
 image: "/assets/images/posts/AMessagetoOurCustomersaboutCOVID19_full.png"
 thumbnail: "/assets/images/posts/AMessagetoOurCustomersaboutCOVID19.png"
 ---
 
-[https://bbbyemail.com/pub/as?_ri_=X0Gzc2X%3DYQpglLjHJlTQGmWTDdXGdRktMjaWiAL83p0W3zdshizelh2nmdWzbfza5Y4hpJ0n8peJafVXHkMX%3Dw&_ei_=EolaGGF4SNMvxFF7KucKuWNqt2G0G1yUyZbdm82hec84Gmd3foji1oHnhLtnvRY2lSb2V6XRkYsjKnxHpQg9.]
 Our commitment to your safety
 [Bed Bath & Beyond®]
 View in browser ›
@@ -27,7 +26,7 @@ What We're Doing:
 We recognize this is a challenging time for all, and we remain deeply committed to the safety of our customers, teams, and communities.
 Our customers are the heart of our company and we look forward to welcoming and serving you wherever and however you choose to shop with us.
 Please take care of yourselves and each other,
-[http://static.cdn.responsys.net/i2/responsysimages/bbby/contentlibrary/merkle_promotional/bbby/2020/03_march/wk2/20200314_181m_letter_from_ceo/images/Mark_Signature.jpg]
+
 Mark Tritton
 President and CEO
 
