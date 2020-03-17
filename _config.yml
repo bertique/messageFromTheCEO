@@ -4,6 +4,7 @@ description: 'A collection of emails sent by CEOs.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 email: 'b.michael.dick@gmail.com'
+url: https://messagefromtheceo.com
 
 include: ["_pages"]
 permalink: /:year-:month-:day-:title
