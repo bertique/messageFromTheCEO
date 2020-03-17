@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.png'
 email: 'b.michael.dick@gmail.com'
 
 include: ["_pages"]
-permalink: /:title
+permalink: /:year-:month-:day-:title
 
 # Plugins
 plugins: 
@@ -18,18 +18,17 @@ plugins:
 # Defaults
 defaults:
 
-  # all posts
+     # all posts
   - scope:
       path: "_posts"
     values:
       layout: post
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
       
 # Syntax
 markdown: kramdown
