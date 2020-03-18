@@ -2,7 +2,7 @@
 title:  "An update from our CEO"
 metadate: "hide"
 date: 2020-03-18 12:12:22
-categories: [  ]
+categories: [ covid, crateandbarrel, retail ]
 image: "/assets/images/posts/AnupdatefromourCEO_full.png"
 thumbnail: "/assets/images/posts/AnupdatefromourCEO.png"
 ---
@@ -20,14 +20,7 @@ New
 [Crate and kids]
 [HUDSON | GRACE]
 
-[https://image.mail.crateandbarrel.com/lib/fe9013727564027a7c/m/32/0fa79f35-ec39-44e2-9236-6db5d06d967f.png]
-        |
-[https://image.mail.crateandbarrel.com/lib/fe9013727564027a7c/m/30/8edcef16-0e32-4977-bf52-8c78f3319002.png]
 
-[https://image.mail.crateandbarrel.com/lib/fe9013727564027a7c/m/30/b7717557-ffb9-426c-b455-41dc4ea3e02f.png]
-[https://image.mail.crateandbarrel.com/lib/fe9013727564027a7c/m/32/0fa79f35-ec39-44e2-9236-6db5d06d967f.png]
-[https://image.mail.crateandbarrel.com/lib/fe9013727564027a7c/m/32/8e542c96-6000-4c61-9699-ddb23c63b437.png]
-[https://image.mail.crateandbarrel.com/lib/fe9013727564027a7c/m/33/41d88e73-7173-42bf-803e-87862b668024.jpg]
 New ▸
 Furniture ▸
 Decor ▸
