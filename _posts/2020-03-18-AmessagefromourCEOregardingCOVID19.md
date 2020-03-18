@@ -2,7 +2,7 @@
 title:  "A message from our CEO regarding COVID-19"
 metadate: "hide"
 date: 2020-03-18 22:58:43
-categories: [  ]
+categories: [ covid19, riteaid, retail ]
 image: "/assets/images/posts/AmessagefromourCEOregardingCOVID19_full.png"
 thumbnail: "/assets/images/posts/AmessagefromourCEOregardingCOVID19.png"
 ---
