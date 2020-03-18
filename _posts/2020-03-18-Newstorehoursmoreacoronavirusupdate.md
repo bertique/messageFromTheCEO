@@ -2,7 +2,7 @@
 title:  "New store hours & more—a coronavirus update."
 metadate: "hide"
 date: 2020-03-18 23:03:40
-categories: [  ]
+categories: [ covid19, target, retail ]
 image: "/assets/images/posts/Newstorehoursmoreacoronavirusupdate_full.png"
 thumbnail: "/assets/images/posts/Newstorehoursmoreacoronavirusupdate.png"
 ---
