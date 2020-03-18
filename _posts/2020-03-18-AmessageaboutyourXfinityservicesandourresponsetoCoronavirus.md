@@ -2,7 +2,7 @@
 title:  "A message about your Xfinity services and our response to Coronavirus"
 metadate: "hide"
 date: 2020-03-18 22:59:21
-categories: [  ]
+categories: [ covid19, xfinity, internet ]
 image: "/assets/images/posts/AmessageaboutyourXfinityservicesandourresponsetoCoronavirus_full.png"
 thumbnail: "/assets/images/posts/AmessageaboutyourXfinityservicesandourresponsetoCoronavirus.png"
 ---
