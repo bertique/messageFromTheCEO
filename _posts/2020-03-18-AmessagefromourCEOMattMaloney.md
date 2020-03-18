@@ -2,7 +2,7 @@
 title:  "A message from our CEO, Matt Maloney"
 metadate: "hide"
 date: 2020-03-18 00:11:14
-categories: [  ]
+categories: [ covid, grubhub, restaurant ]
 image: "/assets/images/posts/AmessagefromourCEOMattMaloney_full.png"
 thumbnail: "/assets/images/posts/AmessagefromourCEOMattMaloney.png"
 ---
