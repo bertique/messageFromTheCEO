@@ -2,7 +2,7 @@
 title:  "An update on our retail stores"
 metadate: "hide"
 date: 2020-03-18 12:05:17
-categories: [  ]
+categories: [ covid, westelm, retail ]
 image: "/assets/images/posts/Anupdateonourretailstores_full.png"
 thumbnail: "/assets/images/posts/Anupdateonourretailstores.png"
 ---
