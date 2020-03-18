@@ -2,7 +2,7 @@
 title:  "An update from JetBlue."
 metadate: "hide"
 date: 2020-03-18 17:56:42
-categories: [  ]
+categories: [ covid19, jetblue, airline ]
 image: "/assets/images/posts/AnupdatefromJetBlue_full.png"
 thumbnail: "/assets/images/posts/AnupdatefromJetBlue.png"
 ---
