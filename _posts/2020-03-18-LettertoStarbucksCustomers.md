@@ -2,7 +2,7 @@
 title:  "Letter to Starbucks Customers"
 metadate: "hide"
 date: 2020-03-18 12:16:19
-categories: [  ]
+categories: [ covid, starbucks, restaurant, coffee ]
 image: "/assets/images/posts/LettertoStarbucksCustomers_full.png"
 thumbnail: "/assets/images/posts/LettertoStarbucksCustomers.png"
 ---
@@ -86,13 +86,10 @@ We are privileged to serve you and your community and
 look forward to seeing you soon.
 
 Regards,
-[http://f.e.starbucks.com/i/52/163466415/spcr.gif]      [http://f.e.starbucks.com/i/52/163466415/031120_SBUX_COVID19_SR_01.jpg]
-[http://f.e.starbucks.com/i/52/163466415/spcr.gif]      Kevin Johnson
-ceo, Starbucks
-[http://f.e.starbucks.com/i/52/163466415/spcr.gif]
 
-[http://f.e.starbucks.com/i/52/163466415/spcr.gif]
-[http://f.e.starbucks.com/i/52/163466415/spcr.gif]      Ref: 20-24-ANO-3-0-0-EM-SR-NA-US
+Kevin Johnson
+ceo, Starbucks
+     Ref: 20-24-ANO-3-0-0-EM-SR-NA-US
 Change the format in which you receive our emails.
 
 We’re contacting you because you have opted in to receive news, promotions, information and offers from Starbucks. Your address is listed as . Unsubscribe.
@@ -106,7 +103,7 @@ Starbucks Card Terms Of Use
 
 Starbucks
 
-Privacy Statement         [http://f.e.starbucks.com/i/52/163466415/spcr.gif]
+Privacy Statement        
 
 [STARBUCKS®]
 
