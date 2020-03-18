@@ -1,6 +1,7 @@
 ---
 title:  "A message from our CEO"
 metadate: "hide"
+date: 2020-03-17 16:00:00
 categories: [ covid, marriott, hotel ]
 image: "/assets/images/posts/AmessagefromourCEO_full.png"
 thumbnail: "/assets/images/posts/AmessagefromourCEO.png"

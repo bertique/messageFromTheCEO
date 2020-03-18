@@ -1,6 +1,7 @@
 ---
 title:  "Navigating These Times Together"
 metadate: "hide"
+date: 2020-03-17 20:00:00
 categories: [ covid, retail, allbirds ]
 image: "/assets/images/posts/NavigatingTheseTimesTogether_full.png"
 thumbnail: "/assets/images/posts/NavigatingTheseTimesTogether.png"

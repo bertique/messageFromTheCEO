@@ -1,6 +1,7 @@
 ---
 title:  "A note to our guests about the coronavirus."
 metadate: "hide"
+date: 2020-03-17 14:00:00
 categories: [ covid, target, store ]
 image: "/assets/images/posts/Anotetoourguestsaboutthecoronavirus_full.png"
 thumbnail: "/assets/images/posts/Anotetoourguestsaboutthecoronavirus.png"

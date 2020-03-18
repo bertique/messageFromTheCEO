@@ -1,6 +1,7 @@
 ---
 title:  "Hilton’s Response to Novel Coronavirus (COVID-19)"
 metadate: "hide"
+date: 2020-03-17 11:00:00
 categories: [ covid, hilton, hotel ]
 image: "/assets/images/posts/HiltonsResponsetoNovelCoronavirusCOVID19_full.png"
 thumbnail: "/assets/images/posts/HiltonsResponsetoNovelCoronavirusCOVID19.png"

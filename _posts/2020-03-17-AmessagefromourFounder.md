@@ -1,6 +1,7 @@
 ---
 title:  "A message from our Founder"
 metadate: "hide"
+date: 2020-03-15 00:00:00
 categories: [ covid, cheesecake, restaurant ]
 image: "/assets/images/posts/AmessagefromourFounder_full.png"
 thumbnail: "/assets/images/posts/AmessagefromourFounder.png"

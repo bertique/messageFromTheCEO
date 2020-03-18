@@ -1,6 +1,7 @@
 ---
 title:  "Oracle’s commitment to our customers during the COVID-19 (Coronavirus) crisis"
 metadate: "hide"
+date: 2020-03-17 19:00:00
 categories: [ covid, oracle ]
 image: "/assets/images/posts/OraclescommitmenttoourcustomersduringtheCOVID19Coronaviruscrisis_full.png"
 thumbnail: "/assets/images/posts/OraclescommitmenttoourcustomersduringtheCOVID19Coronaviruscrisis.png"

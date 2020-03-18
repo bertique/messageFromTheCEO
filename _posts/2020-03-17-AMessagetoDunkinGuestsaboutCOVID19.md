@@ -1,6 +1,7 @@
 ---
 title:  "A Message to Dunkin’ Guests about COVID-19"
 metadate: "hide"
+date: 2020-03-17 22:00:00
 categories: [ covid, dunkin, restaurant ]
 image: "/assets/images/posts/AMessagetoDunkinGuestsaboutCOVID19_full.png"
 thumbnail: "/assets/images/posts/AMessagetoDunkinGuestsaboutCOVID19.png"

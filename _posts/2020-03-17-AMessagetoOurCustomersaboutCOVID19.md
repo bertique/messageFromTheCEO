@@ -1,6 +1,7 @@
 ---
 title:  "A Message to Our Customers about COVID-19"
 metadate: "hide"
+date: 2020-03-17 21:00:00
 categories: [ covid, bedbathbeyond, retail ]
 image: "/assets/images/posts/AMessagetoOurCustomersaboutCOVID19_full.png"
 thumbnail: "/assets/images/posts/AMessagetoOurCustomersaboutCOVID19.png"

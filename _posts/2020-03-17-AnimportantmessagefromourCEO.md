@@ -1,6 +1,7 @@
 ---
 title:  "An important message from our CEO"
 metadate: "hide"
+date: 2020-03-17 10:00:00
 categories: [ covid, ihg, hotel ]
 image: "/assets/images/posts/AnimportantmessagefromourCEO_full.png"
 thumbnail: "/assets/images/posts/AnimportantmessagefromourCEO.png"

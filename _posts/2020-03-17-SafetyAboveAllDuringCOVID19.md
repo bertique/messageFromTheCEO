@@ -1,6 +1,7 @@
 ---
 title:  "Safety Above All During COVID-19"
 metadate: "hide"
+date: 2020-03-17 12:00:00
 categories: [ covid, fedex ]
 image: "/assets/images/posts/SafetyAboveAllDuringCOVID19_full.png"
 thumbnail: "/assets/images/posts/SafetyAboveAllDuringCOVID19.png"
@@ -59,8 +60,7 @@ Follow FedEx Office
 
 
 
- This email has been sent to info@messagefromtheceo.com
-<#m_-3370945814978698242_>. All future FedEx email communications will be
+ This email has been sent to info@messagefromtheceo.com. All future FedEx email communications will be
 sent to this address. You can unsubscribe
 
 or update

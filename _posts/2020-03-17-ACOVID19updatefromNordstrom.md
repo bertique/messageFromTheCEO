@@ -1,6 +1,7 @@
 ---
 title:  "A COVID-19 update from Nordstrom"
 metadate: "hide"
+date: 2020-03-17 23:00:00
 categories: [ covid, nordstrom, retail ]
 image: "/assets/images/posts/ACOVID19updatefromNordstrom_full.png"
 thumbnail: "/assets/images/posts/ACOVID19updatefromNordstrom.png"
