@@ -2,7 +2,7 @@
 title:  "A Message to Our Panera Family on COVID-19."
 metadate: "hide"
 date: 2020-03-18 22:52:18
-categories: [  ]
+categories: [ covid19, panera, restaurant ]
 image: "/assets/images/posts/AMessagetoOurPaneraFamilyonCOVID19_full.png"
 thumbnail: "/assets/images/posts/AMessagetoOurPaneraFamilyonCOVID19.png"
 ---
