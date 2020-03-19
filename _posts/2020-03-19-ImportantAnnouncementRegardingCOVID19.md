@@ -2,7 +2,7 @@
 title:  "Important Announcement Regarding COVID-19"
 metadate: "hide"
 date: 2020-03-19 00:39:21
-categories: [  ]
+categories: [ covid19, dicks, dickssportinggoods, retail ]
 image: "/assets/images/posts/ImportantAnnouncementRegardingCOVID19_full.png"
 thumbnail: "/assets/images/posts/ImportantAnnouncementRegardingCOVID19.png"
 ---
