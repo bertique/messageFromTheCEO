@@ -2,7 +2,7 @@
 title:  "COVID-19 update: more flexibility and extraordinary care"
 metadate: "hide"
 date: 2020-03-18 23:04:55
-categories: [  ]
+categories: [ covid19, hertz, travel, rentalcar ]
 image: "/assets/images/posts/COVID19updatemoreflexibilityandextraordinarycare_full.png"
 thumbnail: "/assets/images/posts/COVID19updatemoreflexibilityandextraordinarycare.png"
 ---
