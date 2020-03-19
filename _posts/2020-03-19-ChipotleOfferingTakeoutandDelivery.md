@@ -2,7 +2,7 @@
 title:  "Chipotle Offering Takeout and Delivery"
 metadate: "hide"
 date: 2020-03-19 23:40:08
-categories: [  ]
+categories: [ covid19, chipotle, restaurant ]
 image: "/assets/images/posts/ChipotleOfferingTakeoutandDelivery_full.png"
 thumbnail: "/assets/images/posts/ChipotleOfferingTakeoutandDelivery.png"
 ---
