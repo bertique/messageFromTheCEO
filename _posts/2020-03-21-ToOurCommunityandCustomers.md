@@ -2,7 +2,7 @@
 title:  "To Our Community and Customers"
 metadate: "hide"
 date: 2020-03-21 16:15:41
-categories: [  ]
+categories: [ covid19, wholefoods, retail ]
 image: "/assets/images/posts/ToOurCommunityandCustomers_full.png"
 thumbnail: "/assets/images/posts/ToOurCommunityandCustomers.png"
 ---
