@@ -2,7 +2,7 @@
 title:  "Our Commitment Remains: Your Update from Ed Bastian"
 metadate: "hide"
 date: 2020-03-22 20:31:15
-categories: [  ]
+categories: [ covid19, delta, airline ]
 image: "/assets/images/posts/OurCommitmentRemainsYourUpdatefromEdBastian_full.png"
 thumbnail: "/assets/images/posts/OurCommitmentRemainsYourUpdatefromEdBastian.png"
 ---
@@ -12,11 +12,10 @@ thumbnail: "/assets/images/posts/OurCommitmentRemainsYourUpdatefromEdBastian.png
 
 
 
-#9365843870
 
  | Platinum Medallion®
 
- |  42,630 Miles
+ |   Miles
 
 
 
