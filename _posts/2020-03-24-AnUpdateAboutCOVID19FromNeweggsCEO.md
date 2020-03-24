@@ -2,7 +2,7 @@
 title:  "An Update About COVID-19 From Newegg's CEO"
 metadate: "hide"
 date: 2020-03-24 11:56:44
-categories: [  ]
+categories: [ covid19, newegg, retail ]
 image: "/assets/images/posts/AnUpdateAboutCOVID19FromNeweggsCEO_full.png"
 thumbnail: "/assets/images/posts/AnUpdateAboutCOVID19FromNeweggsCEO.png"
 ---
