@@ -2,7 +2,7 @@
 title:  "Important updates for our customers related to COVID-19"
 metadate: "hide"
 date: 2020-03-24 11:56:38
-categories: [  ]
+categories: [ covid19, comcast, internet ]
 image: "/assets/images/posts/ImportantupdatesforourcustomersrelatedtoCOVID19_full.png"
 thumbnail: "/assets/images/posts/ImportantupdatesforourcustomersrelatedtoCOVID19.png"
 ---
