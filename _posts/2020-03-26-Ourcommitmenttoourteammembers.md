@@ -2,7 +2,7 @@
 title:  "Our commitment to our team members"
 metadate: "hide"
 date: 2020-03-26 12:04:36
-categories: [  ]
+categories: [ covid19, chipotle, restaurant ]
 image: "/assets/images/posts/Ourcommitmenttoourteammembers_full.png"
 thumbnail: "/assets/images/posts/Ourcommitmenttoourteammembers.png"
 ---
