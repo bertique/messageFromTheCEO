@@ -2,24 +2,12 @@
 title:  "A note from United's CEO: Our role during these challenging times"
 metadate: "hide"
 date: 2020-03-28 14:13:52
-categories: [  ]
+categories: [ covid19, united, airline, travel ]
 image: "/assets/images/posts/AnotefromUnitedsCEOOurroleduringthesechallengingtimes_full.png"
 thumbnail: "/assets/images/posts/AnotefromUnitedsCEOOurroleduringthesechallengingtimes.png"
 ---
 An update on our response to the coronavirus outbreak.
 View Online
-
-
-
-MileagePlus # XXXXX186
-
-
-
-
-MileagePlus # XXXXX186
-
-
-
 
 MileagePlus # XXXXX186
 
