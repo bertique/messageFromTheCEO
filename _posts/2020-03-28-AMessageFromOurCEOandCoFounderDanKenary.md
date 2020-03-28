@@ -2,7 +2,7 @@
 title:  "A Message From Our CEO and Co-Founder, Dan Kenary"
 metadate: "hide"
 date: 2020-03-28 14:17:13
-categories: [  ]
+categories: [ covid19, harpoon, beer, brewery ]
 image: "/assets/images/posts/AMessageFromOurCEOandCoFounderDanKenary_full.png"
 thumbnail: "/assets/images/posts/AMessageFromOurCEOandCoFounderDanKenary.png"
 ---
