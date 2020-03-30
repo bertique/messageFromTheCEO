@@ -2,30 +2,17 @@
 title:  "Our Commitment Remains: Your Update from Ed Bastian"
 metadate: "hide"
 date: 2020-03-29 19:54:40
-categories: [  ]
+categories: [ covid19, delta, airline ]
 image: "/assets/images/posts/OurCommitmentRemainsYourUpdatefromEdBastian_full.png"
 thumbnail: "/assets/images/posts/OurCommitmentRemainsYourUpdatefromEdBastian.png"
 ---
   View as a Web Page
 
-
-
-
-
-#9365843870
-
  | Platinum Medallion®
-
- |  42,630 Miles
-
 
 VIEW YOUR LATEST VIDEO FROM ED
 
-
-
-
-
-Dear Bert,
+Dear ,
 
 Three months ago, I would have never dreamt our world would be facing such
 volatile times, but I remain confident we will prevail because of you and
