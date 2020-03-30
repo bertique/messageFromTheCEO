@@ -2,25 +2,15 @@
 title:  "Our Commitment Remains: Your Update from Ed Bastian"
 metadate: "hide"
 date: 2020-03-30 23:04:06
-categories: [  ]
+categories: [ covid19, delta, airline ]
 image: "/assets/images/posts/2020-03-30-OurCommitmentRemainsYourUpdatefromEdBastian_full.png"
 thumbnail: "/assets/images/posts/2020-03-30-OurCommitmentRemainsYourUpdatefromEdBastian.png"
 ---
   View as a Web Page
 
-
-
-
-
-
  | Platinum Medallion®
 
-
-
 VIEW YOUR LATEST VIDEO FROM ED
-
-
-
 
 
 Dear Bert,
