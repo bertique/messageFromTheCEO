@@ -2,7 +2,7 @@
 title:  "Our Commitment Remains: Your Update from Ed Bastian"
 metadate: "hide"
 date: 2020-04-08 01:07:02
-categories: [  ]
+categories: [ delta, airline, travel, ceo ]
 image: "/assets/images/posts/2020-04-08-OurCommitmentRemainsYourUpdatefromEdBastian_full.png"
 thumbnail: "/assets/images/posts/2020-04-08-OurCommitmentRemainsYourUpdatefromEdBastian.png"
 ---
