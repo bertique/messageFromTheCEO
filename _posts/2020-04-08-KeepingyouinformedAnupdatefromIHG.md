@@ -2,7 +2,7 @@
 title:  "Keeping you informed: An update from IHG"
 metadate: "hide"
 date: 2020-04-08 01:06:25
-categories: [  ]
+categories: [ covid19, delta, airline, travel ]
 image: "/assets/images/posts/2020-04-08-KeepingyouinformedAnupdatefromIHG_full.png"
 thumbnail: "/assets/images/posts/2020-04-08-KeepingyouinformedAnupdatefromIHG.png"
 ---
