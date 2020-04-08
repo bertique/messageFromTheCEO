@@ -2,7 +2,7 @@
 title:  "An Update from our CEO"
 metadate: "hide"
 date: 2020-04-08 21:20:28
-categories: [  ]
+categories: [ covid19, marriott, hotel, travel ]
 image: "/assets/images/posts/2020-04-08-AnUpdatefromourCEO_full.png"
 thumbnail: "/assets/images/posts/2020-04-08-AnUpdatefromourCEO.png"
 ---
