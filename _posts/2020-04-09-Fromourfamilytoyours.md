@@ -2,7 +2,7 @@
 title:  "From our family to yours"
 metadate: "hide"
 date: 2020-04-09 20:41:02
-categories: [  ]
+categories: [ covid19, britishairways, ba, travel, airline ]
 image: "/assets/images/posts/2020-04-09-Fromourfamilytoyours_full.png"
 thumbnail: "/assets/images/posts/2020-04-09-Fromourfamilytoyours.png"
 ---
