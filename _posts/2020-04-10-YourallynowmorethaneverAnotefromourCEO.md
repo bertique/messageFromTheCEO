@@ -2,7 +2,7 @@
 title:  "Your ally now, more than ever | A note from our CEO"
 metadate: "hide"
 date: 2020-04-10 16:16:58
-categories: [  ]
+categories: [ covid19, ally, banking ]
 image: "/assets/images/posts/2020-04-10-YourallynowmorethaneverAnotefromourCEO_full.png"
 thumbnail: "/assets/images/posts/2020-04-10-YourallynowmorethaneverAnotefromourCEO.png"
 ---
