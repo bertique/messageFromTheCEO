@@ -2,7 +2,7 @@
 title:  "Thanks, and more."
 metadate: "hide"
 date: 2020-04-10 20:23:15
-categories: [  ]
+categories: [ covid19, jetblue, airline, travel ]
 image: "/assets/images/posts/2020-04-10-Thanksandmore_full.png"
 thumbnail: "/assets/images/posts/2020-04-10-Thanksandmore.png"
 ---
