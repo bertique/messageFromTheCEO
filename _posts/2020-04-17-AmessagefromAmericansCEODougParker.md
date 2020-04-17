@@ -2,21 +2,14 @@
 title:  "A message from American's CEO, Doug Parker"
 metadate: "hide"
 date: 2020-04-17 18:07:05
-categories: [  ]
+categories: [ covid19, americanairlines, aa, airline, travel ]
 image: "/assets/images/posts/2020-04-17-AmessagefromAmericansCEODougParker_full.png"
 thumbnail: "/assets/images/posts/2020-04-17-AmessagefromAmericansCEODougParker.png"
 ---
 A special message from American Airlines
 View on the web
 
-
-
-
-
 Hello  AAdvantage® member
-
-
-
 
 American Airlines CEO, Doug Parker, provides an update on what American is
 doing to care for customers, team members and the communities we serve
@@ -51,12 +44,6 @@ Reservations
 
 Connect with us 
 
-
-
-
-
-
-
 Reservations
 
 Redeem Miles
@@ -66,13 +53,6 @@ Deals
 Your Account
 
 Connect with us
-
-
-
-
-
-
-
 
 Update Email Preferences
 
