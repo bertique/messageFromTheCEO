@@ -2,7 +2,7 @@
 title:  "We’re in This Together: Your Update From Ed"
 metadate: "hide"
 date: 2020-04-18 14:15:39
-categories: [  ]
+categories: [ covid19, delta, airlines, travel ]
 image: "/assets/images/posts/2020-04-18-WereinThisTogetherYourUpdateFromEd_full.png"
 thumbnail: "/assets/images/posts/2020-04-18-WereinThisTogetherYourUpdateFromEd.png"
 ---
