@@ -2,7 +2,7 @@
 title:  "A leadership update on COVID-19"
 metadate: "hide"
 date: 2020-04-17 18:07:44
-categories: [  ]
+categories: [ covid19, comcast, xfinity, cable ]
 image: "/assets/images/posts/2020-04-17-AleadershipupdateonCOVID19_full.png"
 thumbnail: "/assets/images/posts/2020-04-17-AleadershipupdateonCOVID19.png"
 ---
